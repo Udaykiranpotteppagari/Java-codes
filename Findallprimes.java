@@ -1,4 +1,4 @@
-// Java program to find GCD of two numbers.
+// Java program to find all the prime numbers from 1 to entered number.
 import java.util.*;
 public class Findallprimes
 {
